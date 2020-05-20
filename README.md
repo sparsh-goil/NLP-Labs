@@ -1,4 +1,4 @@
-This repo contains the codes of Lab assignment of Natural Language Processing course.\
+This repo contains the codes of Lab assignment of Natural Language Processing course.
 
 # Labs
 
